@@ -8,7 +8,7 @@ package democoloredwindow;
 
 /**
  *
- * @author Rich
+ * @author 
  */
 import java.awt.Color;
 
