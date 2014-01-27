@@ -8,7 +8,7 @@ package democoloredwindow;
 
 /**
  *
- * @author Rich
+ * @author 
  */
 import javax.swing.JFrame;
 import javax.swing.JLabel;
